@@ -1,6 +1,6 @@
 <img src="Logo_Le_Juste_Prix.png" width="164" height="152"/>
 
-[![Stars](https://img.shields.io/github/stars/AurelienAudero/Intel-i5-7400-Hackintosh-EFI?label=Stars)](https://github.com/AurelienAudero/Intel-i5-7400-Hackintosh-EFI/stargazers)
+[![Stars](https://img.shields.io/github/stars/AurelienAudero/Le-jeu-du-Juste-Prix?label=Stars)](https://github.com/AurelienAudero/Le-jeu-du-Juste-Prix/stargazers)
 -----
 
 [French](README.md) | **English**
