@@ -13,5 +13,6 @@ You will be able to discover the game through multiple modes, which will be suit
 - [x] Python 3 or newer
 
 ## Disclaimer :
-THIS SOFTWARE IS NOT SPONSORED, APPROVED OR ADMINISTERED BY, NOR ASSOCIATED WITH TF1 SA. 
-The "TF1", "Le Juste Prix" trademarks and their respective logos are registered trademarks of TF1 SA.
+This software is not sponsored, approved or administered by, nor associated with TF1 SA.  
+The "TF1", "Le Juste Prix" trademarks and their respective logos are registered trademarks of TF1 SA.  
+This software is provided under [BSD-2-Clause License](https://github.com/AurelienAudero/Le-jeu-du-Juste-Prix/blob/main/LICENSE).
