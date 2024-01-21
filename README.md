@@ -13,5 +13,6 @@ Vous pourrez découvrir le jeu à travers de multiples modes, qui conviendront a
 - [x] Python 3 ou version ultérieure
 
 ## Disclaimer :
-CE LOGICIEL N'EST AUCUNEMENT SPONSORISÉ, APPROUVÉ OU ADMINISTRÉ PAR, NI ASSOCIÉ A TF1 SA.  
-Les marques "TF1", "Le Juste Prix" et leurs logo respectifs sont des marques déposées de TF1 SA.
+Ce logiciel n'est aucunement sponsorisé, approuvé ou administré par, ni associé à TF1 SA.  
+Les marques "TF1", "Le Juste Prix" et leurs logo respectifs sont des marques déposées de TF1 SA.  
+Ce logiciel est fourni sous [BSD-2-Clause License](https://github.com/AurelienAudero/Le-jeu-du-Juste-Prix/blob/main/LICENSE).
